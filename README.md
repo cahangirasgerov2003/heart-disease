@@ -168,7 +168,7 @@ This repository is for educational and personal learning purposes only.
 
 If you have feedback or suggestions:
 
-- Email: cahangir22asgerov@gmail.com
+- Email: **cahangir22asgerov@gmail.com**
 
 ---
 
