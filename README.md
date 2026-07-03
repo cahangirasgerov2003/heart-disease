@@ -21,15 +21,22 @@ This is a **binary classification** problem:
 ## 📚 Repository Structure
 
 ```
-heart-disease-ml/
+heart-disease/
 │
 ├── data/
 │   └── heart-disease.csv
 │
-├── notebooks/
-│   ├── ...
+├── images/
+│   └── ...
 │
+├── model/
+│   └── heart_disease_log_reg_model.joblib
+│
+├── heart-disease.jpynb
+│
+├── environment.yml
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
@@ -93,8 +100,8 @@ The dataset contains **303 patients** and **14 features** including:
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/cahangirasgerov2003/heart-disease-ml.git
-cd heart-disease-ml
+git clone https://github.com/cahangirasgerov2003/heart-disease.git
+cd heart-disease
 ```
 
 ### 2️⃣ Create a virtual environment (recommended)
@@ -129,7 +136,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open any `.ipynb` file inside `notebooks/` and start exploring.
+Open any `.ipynb` file and start exploring.
 
 ---
 
